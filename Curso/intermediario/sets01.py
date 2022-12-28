@@ -1,0 +1,1 @@
+# sets são tipos de dados no python que são mutáveis, porém só aceitam tipos mutáveis
